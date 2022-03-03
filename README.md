@@ -55,19 +55,19 @@ HTML-выдачу FastQC лежит в data
 
 ### Пересечение пиков 1 реплики с пиками ENCODE
 
-![Intervene_venn_(1) page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_1.pdf)
+![Intervene_venn_(1) page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_1.png)
 
 ### Пересечение пиков ENCODE с пиками 1 реплики
 
-![Intervene_venn (2)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_2.pdf)
+![Intervene_venn (2)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_2.png)
 
 ### Пересечение пиков 2 реплики с пиками ENCODE
 
-![Intervene_venn (3)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_3.pdf)
+![Intervene_venn (3)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_3.png)
 
 ### Пересечение пиков ENCODE с пиками 2 реплики
 
-![Intervene_venn (4)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_2.pdf)
+![Intervene_venn (4)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_4.png)
 
 
 Пересечений получилось мало, так как пиков получилось мало в связи с выравниванием только на одну хромосому. В базе данных ENCODE пики составлены для всех хромосом, поэтому их намного больше. Пересечение наших пиков с ENCODE и пересечение ENCODE с нашими пиками - это не одно и то же: пересечение устроено таким образом, что считается число участков в первом файле таких, что они имеются во втором, аналогично при другом порядке - участки второго, которые имеются в первом.
