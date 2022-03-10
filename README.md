@@ -6,39 +6,32 @@
 
 ## Анализ FastQC
 
-HTML-выдачу FastQC лежит в data
-[ENCFF052DPD](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF052DPD_fastqc.html)
-[ENCFF612KDN](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF612KDN_fastqc.html)
-[ENCFF726ZWD](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF726ZWD_fastqc.html)
+HTML-выдача FastQC лежит в data
+
+ENCFF052DPD | ENCFF612KDN | ENCFF726ZWD
+--- | --- | ---
+[ENCFF052DPD](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF052DPD_fastqc.html) | [ENCFF612KDN](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF612KDN_fastqc.html) | [ENCFF726ZWD](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF726ZWD_fastqc.html)
 
 ### 1-ая ChipSeq реплика (ENCFF052DPD)
 
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF052DPD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF052DPD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF052DPD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF052DPD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PsGCc_ENCFF052DPD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PbNc_ENCFF052DPD.png)
+--- | ---
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF052DPD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF052DPD.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF052DPD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF052DPD.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PsGCc_ENCFF052DPD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PbNc_ENCFF052DPD.png)
 
 
 ### 2-ая ChipSeq реплика (ENCFF726ZWD)
 
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF726ZWD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF726ZWD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF726ZWD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF726ZWD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PsGCc_ENCFF726ZWD.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PbNc_ENCFF726ZWD.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF726ZWD.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF726ZWD.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PsGCc_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PbNc_ENCFF726ZWD.png)
 
 
 ### Контроль (ENCFF612KDN)
 
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF612KDN.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF612KDN.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF612KDN.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF612KDN.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PsGCc_ENCFF612KDN.png)
-![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PbNc_ENCFF612KDN.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF612KDN.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF612KDN.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF612KDN.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF612KDN.png)
+![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PsGCc_ENCFF612KDN.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/PbNc_ENCFF612KDN.png)
 
 Подрезание не требуется, качество ридов хорошее.
 
@@ -71,3 +64,11 @@ HTML-выдачу FastQC лежит в data
 
 
 Пересечений получилось мало, так как пиков получилось мало в связи с выравниванием только на одну хромосому. В базе данных ENCODE пики составлены для всех хромосом, поэтому их намного больше. Пересечение наших пиков с ENCODE и пересечение ENCODE с нашими пиками - это не одно и то же: пересечение устроено таким образом, что считается число участков в первом файле таких, что они имеются во втором, аналогично при другом порядке - участки второго, которые имеются в первом.
+
+
+## Бонусная часть heatmap для bam файлов и соотвествующих им .bigWig файлов
+
+![ENCFF040HPO](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result.png)
+![ENCFF160YWB](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result2.png)
+
+
