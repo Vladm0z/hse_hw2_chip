@@ -36,24 +36,21 @@ ENCFF052DPD | ENCFF612KDN | ENCFF726ZWD
 
 ## Диаграммы Эйлера-Венна
 
-### Пересечение пиков 1 реплики с пиками ENCODE
+### Пересечение пиков 1 реплики и ENCODE
 
-![Intervene_venn_(1) page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_1.png)
+1 реплика с ENCODE | ENCODE с 1 репликой
+--- | ---
+![Intervene_venn_(1) page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_1.png) | ![Intervene_venn (2)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_2.png)
 
-### Пересечение пиков ENCODE с пиками 1 реплики
-
-![Intervene_venn (2)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_2.png)
-
-### Пересечение пиков 2 реплики с пиками ENCODE
-
-![Intervene_venn (3)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_3.png)
-
-### Пересечение пиков ENCODE с пиками 2 реплики
-
-![Intervene_venn (4)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_4.png)
+### Пересечение пиков 2 реплики и ENCODE
 
 
-Пересечений получилось мало, так как пиков получилось мало в связи с выравниванием только на одну хромосому. В базе данных ENCODE пики составлены для всех хромосом, поэтому их намного больше. Пересечение наших пиков с ENCODE и пересечение ENCODE с нашими пиками - это не одно и то же: пересечение устроено таким образом, что считается число участков в первом файле таких, что они имеются во втором, аналогично при другом порядке - участки второго, которые имеются в первом.
+2 реплика с ENCODE | ENCODE и 2 репликой
+--- | ---
+![Intervene_venn (3)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_3.png) | ![Intervene_venn (4)_page-0001](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Intervene_venn_4.png)
+
+
+Пересечений довольно мало, это связано с тем, что выравнивание производилось только на одну хромосому. В базе данных ENCODE пики составлены для всех хромосом, поэтому их намного больше. Пересечение наших пиков с ENCODE и пересечение ENCODE с нашими пиками - разные вещи, в связи с чем и наблюдаются различные значения.
 
 
 ## Бонусная часть heatmap для bam файлов и соотвествующих им .bigWig файлов
@@ -61,4 +58,4 @@ ENCFF052DPD | ENCFF612KDN | ENCFF726ZWD
 ![ENCFF040HPO](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result.png)
 ![ENCFF160YWB](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result2.png)
 
-
+Графики для .bam файлов похожи на расположение гистоновой метки относительно генов (хотя значения довольно низкие), смещений почти нет, а следовательно (если не учитывать значения), рузельтат близок к теоретическому расположению гистоновой метки.
