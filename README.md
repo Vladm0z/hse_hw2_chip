@@ -55,7 +55,9 @@ ENCFF052DPD | ENCFF612KDN | ENCFF726ZWD
 
 ## Бонусная часть heatmap для bam файлов и соотвествующих им .bigWig файлов
 
-![ENCFF040HPO](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result.png)
-![ENCFF160YWB](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result2.png)
+ENCFF040HPO | ENCFF160YWB
+--- | ---
+![ENCFF040HPO](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result.png) | ![ENCFF160YWB](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/result2.png)
+
 
 Графики для .bam файлов похожи на расположение гистоновой метки относительно генов (хотя значения довольно низкие), смещений почти нет, а следовательно (если не учитывать значения), рузельтат близок к теоретическому расположению гистоновой метки.
